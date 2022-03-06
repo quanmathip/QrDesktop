@@ -1,2 +1,2 @@
 # LinkToQrDesktop
-this is my first app :>
+app that i made :>
